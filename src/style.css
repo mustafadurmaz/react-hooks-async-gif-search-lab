@@ -1,0 +1,12 @@
+.GifContainer{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    
+}
+
+.GifSearch button{ 
+    background-color: rgb(19, 212, 19);
+    color: #fff;
+    font-weight: bold;
+}
